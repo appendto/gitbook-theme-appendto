@@ -1,11 +1,9 @@
 module.exports = {
     book: {
         assets: "./book",
-        js: [
-            "test.js"
-        ],
+        js: [],
         css: [
-            "test.css"
+            "style/appendto.css"
         ],
         html: {
             "html:start": function() {

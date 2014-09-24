@@ -1,0 +1,16 @@
+/* Sidebar */
+.book .book-summary {}
+
+/* Book, without sidebar */
+.book .book-body {}
+
+/* Header over book body */
+.book .book-body .book-header {}
+
+/* Book page content, under header */
+.book .book-body .page-wrapper {}
+
+/* Navigation button/links at the bottom of page content */
+a.navigation {}
+a.navigation.navigation.next {}
+a.navigation.navigation-prev {}
